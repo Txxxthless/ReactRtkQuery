@@ -1,3 +1,8 @@
+# ReactRtkQuery
+
+Hi! This my project for learning using Redux Tool Kit Query with React.
+You can checkout the deployed site here: https://txxxthless.github.io/ReactRtkQuery/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
